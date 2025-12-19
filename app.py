@@ -1,7 +1,4 @@
-"""
-CT Learner - Enhanced UX with Data Analytics & Sentence Highlighting
-Single-file Streamlit app with improved HCI principles.
-"""
+
 
 import os
 import io
